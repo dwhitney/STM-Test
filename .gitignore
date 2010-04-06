@@ -1,5 +1,6 @@
 target/
 lib_managed/
+logs/
 project/boot/
 project/build/target/
 project/plugins/target/
